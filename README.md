@@ -158,3 +158,4 @@ No game binaries or save files are included in this repository.
 - [GearsEDay-UE5StutterDoctor](../GearsEDay-UE5StutterDoctor) — Gears of War: E-Day UE5 DX12 stutter & config doctor
 
 *Independent community project. Not affiliated with Kojima Productions, Sony Interactive Entertainment, Valve, or Steam. All trademarks belong to their respective owners.*
+ 
